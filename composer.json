@@ -1,0 +1,15 @@
+{
+    "name": "php2/app",
+    "description": "asmphp2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Toanlhpc02999"
+        }
+    ],
+    "require": {}
+}
